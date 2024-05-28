@@ -4,10 +4,10 @@ Sou Desenvolvedora Front-end | Experiência com freelancer em arte digital e des
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/athinafarias/github-readme-stats">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=athinafarias&show_icons=true&theme=onedark&count_private=true&hide_border=true" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=athinafarias&show_icons=true&theme=onedark&count_private=true&hide_border=true" />
   </a>
   <a href="https://github.com/athinafarias/convoychat">
-    <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=athinafarias&layout=compact&langs_count=8&theme=onedark&hide_border=true" />
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=athinafarias&layout=compact&langs_count=8&theme=onedark&hide_border=true" />
   </a>
   <br>
   <br>
