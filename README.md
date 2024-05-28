@@ -1,6 +1,6 @@
 # Olá, me chamo Athina Farias!
 
-Sou Desenvolvedora Front-end | Experiência com freelancer em arte digital e design gráfico.
+Sou desenvolvedora front-end | Experiência com freelancer em arte digital e design gráfico.
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/athinafarias/github-readme-stats">
