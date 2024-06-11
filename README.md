@@ -15,7 +15,7 @@ Sou desenvolvedora front-end | Experiência com freelancer em arte digital e des
 
 <div style="display: inline_block"><br>
   <img align="left" alt="gif" height="200" width="240" src="https://i.pinimg.com/originals/f8/82/ea/f882eaced82a507f0b5d0522d8b86e6e.gif">
-  <img align="left" alt="gif" src="https://cdn.discordapp.com/attachments/974049553034665994/1246814279919730768/png.png?ex=665dc1c9&is=665c7049&hm=50720000d6cb2bcfe1ec0e4926a3d3b3bc66f32dfa2ccbe18deab56e86eee628&">
+  <img align="left" alt="gif" src="https://cdn.discordapp.com/attachments/974049553034665994/1246814279919730768/png.png?ex=66699f49&is=66684dc9&hm=f33c3b910a0d5d56bd7366691ded782fe07436c534a4e3ef17ace8a16f03aaa9&">
   
   <h3>My Skills</h3>
   <img src="https://img.shields.io/badge/JavaScript-FFE6AA?style=for-the-badge&logo=javascript&logoColor=5D2B3F"/>
