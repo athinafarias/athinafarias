@@ -17,8 +17,11 @@ Sou desenvolvedora front-end | Experiência com freelancer em arte digital e des
   <img align="left" alt="gif" height="200" width="240" src="https://i.pinimg.com/originals/f8/82/ea/f882eaced82a507f0b5d0522d8b86e6e.gif">
 
   <h3>&nbsp &nbsp My Skills</h3>
-  &nbsp &nbsp <img src="https://img.shields.io/badge/JavaScript-FFE6AA?style=for-the-badge&logo=javascript&logoColor=5D2B3F"/>
+  &nbsp &nbsp <img src="https://img.shields.io/badge/React-97E0CE?style=for-the-badge&logo=react&logoColor=5D2B3F"/>
+  <img src="https://img.shields.io/badge/NodeJS-9DD69B?style=for-the-badge&logo=nodedotjs&logoColor=5D2B3F"/> 
+  <img src="https://img.shields.io/badge/typescript-B0D0ED?style=for-the-badge&logo=typescript&logoColor=5D2B3F"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFE6AA?style=for-the-badge&logo=javascript&logoColor=5D2B3F"/>
   <img src="https://img.shields.io/badge/html-F29F9F?style=for-the-badge&logo=html5&logoColor=5D2B3F"/>
   <img src="https://img.shields.io/badge/css-B0D0ED?style=for-the-badge&logo=css3&logoColor=5D2B3F"/>
-  <img src="https://img.shields.io/badge/photoshop-AEAEE4?style=for-the-badge&logo=adobephotoshop&logoColor=5D2B3F"/>
+  <img src="https://img.shields.io/badge/photoshop-AEAEE4?style=for-the-badge&logo=adobephotoshop&logoColor=5D2B3F"/>  
 </div>
